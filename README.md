@@ -5,3 +5,6 @@ El versionamiento semántico se utiliza para la presentación de un software tam
 ## **Requisitos**
 Definir una API pública , esta servira para la descripcion de lo cambios o de lo nuevo en nuestro poyecto , esto puede ir implicitamente o expliciamente escrito en código o una simple o compleja documentacion de los cambios o nopvedades generadsa en el proyecto
 
+
+## **Implementacion**
+EL versionamiento semántico es un conjunto de números de cada version divididos en tres segmentos numéricos
