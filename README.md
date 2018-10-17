@@ -15,10 +15,18 @@ Cada una de estas siglas separada por el punto significa algo .
 
 ![siglas](img/versionamiento.png)
 
-* El concepto de `MAJOR` se utiliza para los cambios mas potentes es decir los cambios mas significativos donde la vension es estable , en esta parte los cambios son totales 
+* El concepto de `MAJOR` se utiliza para los cambios mas potentes es decir los cambios mas significativos donde la vension es estable , en esta parte los cambios son totales, este se emplea para indicar cambios tanto externos como internos que resultan en hacer nuestro software no sea compatible con versiones anteriores. 
 
-* El concepto de `MINOR` 
+* El concepto de `MINOR` cuando se actualize una funcionalidad particular que no afecta a las demas se utilizara este campo
 
 * El concepto `PATCH` se utiliza cuando se quiere hacer algun cambio de seguridad o arreglo de bugs
 
 ![mmp](img/mmp.jpg)
+
+
+[**Otras fuentes AQUÍ**](https://thatcsharpguy.com/tv/semver/)
+
+````python
+    # Autor : Thom Maurick Roman Aguilar
+    # Estudiante de la carrera Ingeniría de Sistemas
+````
