@@ -28,5 +28,5 @@ Cada una de estas siglas separada por el punto significa algo .
 
 ````python
     # Autor : Thom Maurick Roman Aguilar
-    # Estudiante de la carrera Ingeniría de Sistemas
+    # Estudiante de la carrera Ingeniería de Sistemas
 ````
