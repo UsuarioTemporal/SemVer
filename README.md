@@ -10,3 +10,11 @@ Definir una API pública , esta servira para la descripcion de lo cambios o de l
 EL versionamiento semántico es un conjunto de números de cada version divididos en tres segmentos numéricos.Esto tiene como finalidad mostrar el estado del software. 
 
 ![version](img/version.png)
+
+Cada una de estas siglas separada por el punto significa algo .
+
+![siglas](img/versionamiento.png)
+
+* El concepto de `MAJOR` se utiliza para los cambios mas potentes es decir los cambios mas significativos donde la vension es estable , en esta parte los cambios son totales 
+
+* el concepto `PATCH` se utiliza cuando se quiere hacer algun cambio de seguridad 
