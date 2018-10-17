@@ -7,4 +7,6 @@ Definir una API pública , esta servira para la descripcion de lo cambios o de l
 
 
 ## **Implementacion**
-EL versionamiento semántico es un conjunto de números de cada version divididos en tres segmentos numéricos
+EL versionamiento semántico es un conjunto de números de cada version divididos en tres segmentos numéricos.Esto tiene como finalidad mostrar el estado del software. 
+
+![version](img/version.png)
